@@ -90,3 +90,5 @@ typings/
 
 auth.js
 mail.js
+
+./src/config
